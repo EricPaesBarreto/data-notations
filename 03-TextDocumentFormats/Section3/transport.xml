@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modesOfTransport>
+    <transport make="first Stadler" model="Stadler Lajkonik", >
+        <type>tram</type>
+        <path>fixed</path>
+        <ownership>public</ownership>
+        <capacity>238</capacity>
+    </transport>
+    <transport make="Boeing" model="b737", >
+        <type>plane</type>
+        <path>free</path>
+        <ownership>private</ownership>
+        <capacity>215</capacity>
+    </transport>
+    <transport make="" model="", >
+        <type></type>
+        <path></path>
+        <ownership></ownership>
+        <capacity></capacity>
+    </transport>
+    <transport make="" model="", >
+        <type></type>
+        <path></path>
+        <ownership></ownership>
+        <capacity></capacity>
+    </transport>
+</modesOfTransport>

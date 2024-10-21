@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+	<sender>ericpaesbarreto@outlook.com</sender>
+	<recipient>ericpaesbarreto@outlook.com</recipient>
+	<subject>Test reminder</subject>
+	<body>There will be a test on the 4th of November 2024</body>
+</email>
