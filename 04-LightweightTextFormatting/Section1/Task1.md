@@ -1,6 +1,6 @@
 # notes:
-<h1>Header1<h1>
-<h2>Header2<h2>
+<h1>Header1</h1>
+<h2>Header2</h2>
 
 The tutorial is available at [this link][Tutorial]
 
