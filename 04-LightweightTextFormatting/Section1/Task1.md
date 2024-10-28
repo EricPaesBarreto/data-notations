@@ -1,7 +1,8 @@
 # notes:
-
 <h1>Header1<h1>
 <h2>Header2<h2>
+
+The tutorial is available at [this link][Tutorial]
 
 This text is _italic_ and **this one** is bold
 
@@ -81,3 +82,5 @@ If you want to write text
 That skips a line  
 You must add a double space  
 At the end of the sentence.
+
+[Tutorial]: https://www.markdowntutorial.com/lesson/1/
