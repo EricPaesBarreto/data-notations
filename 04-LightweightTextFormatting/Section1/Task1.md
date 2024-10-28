@@ -1,7 +1,8 @@
 # notes:
 
-#Header1
-##Header2
+<h1>Header1<h1>
+<h2>Header2<h2>
+
 This text is _italic_ and **this one** is bold
 
 [This is the repository link](www.github/EricPaesBarreto/data-notations)
@@ -71,4 +72,12 @@ This [link](Link1) will take you seomwhere real cool.
 
 3. 
 
-    >"I love pineappes"
+ >"I love pineappes"
+
+
+# How to write sentences:
+
+If you want to write text  
+That skips a line  
+You must add a double space  
+At the end of the sentence.
