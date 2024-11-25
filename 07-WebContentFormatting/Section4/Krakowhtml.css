@@ -1,0 +1,35 @@
+table{
+    border: 1px solid;
+}
+th{
+    border: 1px solid;
+    background-color: bisque;
+    text-align: center;
+}
+td{
+    border: 1px solid;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    color: orange
+}
+tr{
+    background-color: grey;
+}
+tr:hover{
+    background-color: red;
+}
+#landmark{
+    width: 15%;
+}
+#yearOfConstruction{
+    width: 15%;
+}
+#architecturalStyle{
+    width: 15%;
+}
+#significance{
+    width: 25%;
+}
